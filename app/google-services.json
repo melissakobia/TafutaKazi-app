@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61394489806",
+    "firebase_url": "https://tafutajob-98501.firebaseio.com",
+    "project_id": "tafutajob-98501",
+    "storage_bucket": "tafutajob-98501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61394489806:android:7f0b207de2aa31c47f1b9f",
+        "android_client_info": {
+          "package_name": "com.example.tafutajob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61394489806-vi70rqb1bd74q784nm53kjvlbuutv5lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tafutajob",
+            "certificate_hash": "6da6669d4ae0f117e98a6ec77193a1026e8c785f"
+          }
+        },
+        {
+          "client_id": "61394489806-ekdp5nt7q5fg1ginh6ki7qnf40164nj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB7e4pu7pwQI_npfT9Y5mIWu9klXFUU1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61394489806-ekdp5nt7q5fg1ginh6ki7qnf40164nj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
